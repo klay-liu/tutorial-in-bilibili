@@ -1,0 +1,9 @@
+duckduckgo_search==4.5.0
+langchain==0.1.7
+langchain-community==0.0.24
+langchain-core==0.1.27
+langchain-experimental==0.0.51
+langchain-openai==0.0.6
+langchainhub==0.1.14
+langsmith==0.1.10
+tavily-python==0.3.1

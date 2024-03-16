@@ -1,0 +1,7 @@
+langchain==0.1.7
+neo4j==5.17.0
+networkx==3.2.1
+pyvis==0.3.2
+torch==2.1.1
+torchvision==0.16.1
+transformers==4.35.2
