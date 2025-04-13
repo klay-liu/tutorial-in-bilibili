@@ -1,0 +1,83 @@
+SGS
+Test Report
+No.: SHHL2003507001TY
+Date: APR.03, 2020
+Page 6 of 12
+American Society for Testing and Materials -AsTM F 963-17- total Lead in paint and similar
+surface-coating materials
+Test Method : With reference to CPSC-CH-E1003-09.1, analysis was performed by AAS.
+Test Item(s)
+Limit
+Unit
+MDL
+001
+005
+008
+Total Lead (Pb)
+90
+mg/kg
+20
+ND
+ND
+ND
+Test Item(s)
+Limit
+Unit 
+MDL
+010
+014
+Total Lead (Pb)
+90
+mg/kg 
+20
+ND
+ND
+Part 1303, Title 16, Code of Federal Regulations, Chapter Il - Consumer Products Safety Commission of
+U.S.A. requirement-Lead
+Test Method : With reference to CPSC Test Method: CPSC-CH-E1003-09.1, analysis was performed by AAS.
+Test Item(s)
+Limit
+Unit 
+MDL
+001
+005
+008
+Lead (Pb)
+0.009
+% 
+0.002
+ND
+ND
+ND
+Conclusion
+PASS
+PASS
+PASS
+Limit
+Unit 
+MDL
+010
+014
+Test Item(s)
+Lead (Pb)
+0.009
+%
+0.002
+ND
+ND
+Conclusion
+PASS
+PASS
+术服务（上海
+nt isissuedCoymthn/Cerms-anyd-Cbnditions.asGenedaforonditronisfofmatvloeumentesd
+验检专用
+Co.LMd.
+t(86)4009609661
+(86-21)61156899
+www.sgsgroup.com.cn
+estingCenter
+中国·上海·徐汇区宜山路889号4号楼邮编：200233
+t(86 400 9609661
+(86-21)61156899
+e sgs.china@sgs.com
+Member of the SGS Group (SGS SA)

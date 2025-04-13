@@ -1,0 +1,80 @@
+Test Report
+No.: SHHL2003507001TY
+Date: APR.03, 2020
+Page 11 of 12
+Test Item(s)
+Limit
+Unit
+MDL
+009
+016
+017
+Lead (Pb)
+0.01
+%
+0.002
+ND
+ND
+ND
+Conclusion
+PASS
+PASS
+PASS
+Notes :
+Limit applies to a children's product manufactured after 14 August 2011 (Public Law 112-28 (HR 2715,
+112th Congress) amending CPSIA)
+CPSlA section 101(a)(2) - Lead in accessible substrate materials
+Test Method :(
+ CPSC Test Method: CPSC-CH-E1001-08.3 *Standard Operating Procedure for Determining
+Total Lead (Pb) in Children's Metal Products (Including Children's Metal Jewelry)
+Test Item(s)
+Limit
+Unit
+MDL
+002
+012
+015
+Lead (Pb)
+0.01
+%
+0.002
+ND
+ND
+ND
+Conclusion
+PASS
+PASS
+PASS
+Notes :
+Limit applies to a children's product manufactured after 14 August 2011 (Public Law 112-28 (HR 2715,
+112thCongress) amendingCPSIA)
+Remark:
+(1)The test results 001-009 are taken from report SHA20-041552.001-004,007-009,011,016
+(2)The test results 010 are taken from report SHA20-041629.024.
+(3)The test results 011-012 are taken from report SHA20-041639.028-029.
+(4)The test results 013 are taken from report SHA20-041535.020.
+(5)The test results 014,017 are taken from report SHA20-042531.014,017..
+(6)The test results 016 are taken from report SHA20-027733.026.
+Remark:
+1.
+ Since the data and / or information above division line of front page is provided by the applicant, the relevant
+results or conclusions of this report are only made for these data and / or information, SGS shall not be
+responsible for the authenticity and integrity of such data and information and the validity of the results and / or
+conclusions arising therefrom. Testing results only apply to the sample as received.
+2. The declaration of conformity is based on non-binary acceptance decision rules with guard band, and the
+guard band length parameter is 0 (w).When the measured value falls in the guard band limit, the
+declaration of conformity is "Conditional PAss" or "Conditional FAIL".
+术服务（上海
+tior
+annotbe
+检验检测专用
+ailCo.LM
+t(86)4009609661
+(86-21)61156899
+www.sgsgroup.com.cn
+中国·上海·徐汇区宜山路889号4号楼邮编：200233
+estingCente
+t(86 400 9609661
+(86-21)61156899
+e sgs.china@sgs.com
+Memberof the SGS Group(SGS SA)

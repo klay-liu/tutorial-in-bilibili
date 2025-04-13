@@ -1,0 +1,122 @@
+SGS
+Test Report
+No.:SHHL2003507001TY
+Date: APR. 03, 2020
+Page 10 of 12
+Test Item(s)
+Limit
+Unit
+MDL
+017
+Soluble Lead (Pb)
+90
+mg/kg
+5
+ND
+Soluble Antimony (Sb)
+60
+mg/kg
+5
+ND
+Soluble Arsenic (As)
+25
+mg/kg
+2.5
+ND
+Soluble Barium (Ba)
+1000
+mg/kg
+10
+ND
+Soluble Cadmium (Cd)
+75
+mg/kg
+5
+ND
+Soluble Chromium (Cr)
+60
+mg/kg
+5
+ND
+Soluble Mercury (Hg)
+60
+mg/kg
+5
+ND
+Soluble Selenium (Se)
+500
+mg/kg
+10
+ND
+Notes :
+(1) Results shown are of the adjusted analytical results
+(2) Mass of trace amount of sample 008 is 47.5 mg, sample 010 is 51.3 mg.
+CPSlA section 101(f) - Lead in paint/similar surface coating material
+Test Method : CPSC Test Method: CPSC-CH-E1003-09.1 'Standard Operating Procedure for Determining
+Lead (Pb) in Paint and Other Similar Surface Coatings'
+Test Item(s)
+Limit
+Unit
+MDL
+001
+005
+Lead (Pb)
+0.009
+%
+0.002
+ND
+ND
+ND
+Conclusion
+PASS
+PASS
+PASS
+Test Item(s)
+Limit
+Unit 
+MDL
+010
+014
+Lead (Pb)
+0.009
+%
+0.002
+ND
+ND
+Conclusion
+PASS
+PASS
+CPSlA section 101(a)(2) - Lead in accessible substrate materials
+Test Method :(
+CPSC Test Method: CPSC-CH-E1002-08.3 'Standard Operation Procedure for Determining
+Total Lead (Pb) in Non-Metal Children Product'
+Test Item(s)
+Limit
+Unit
+MDL
+003
+004
+007
+Lead (Pb)
+0.01
+%
+0.002
+ND
+ND
+ND
+Conclusion
+PASS
+PASS
+PASS
+大服务（上
+检验检测专用
+Co.LMd.
+t(86)400960 9661
+f(86-21)61156899
+www.sgsgroup.com.cn
+estingCente
+中国·上海·徐汇区宜山路889号4号楼邮编：200233
+t(86 400 9609661
+f(86-21)61156899
+e sgs.china@sgs.com
+Memberof theSGSGroup(SGsSA)

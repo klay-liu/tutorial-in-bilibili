@@ -1,0 +1,89 @@
+SGS
+Test Report
+No.:SHHL2003507001TY
+Date: APR.03, 2020
+Page 7 of 12
+American Society for Testing and Materials -ASTM F 963-17 -total Lead in Substrate Materials
+Test Method : With reference to CPSC-CH-E1001-08.3,Analysis was performed by AAS.
+Test Item(s)
+Limit
+Unit 
+MDL
+002
+012
+015
+Total Lead (Pb)
+100
+mg/kg
+20
+ND
+ND
+ND
+Lead(Pb)
+Test Method : With reference to US EPA Method 3050B:1996, analysis was performed by ICP-OES and AAS.
+Test Item(s)
+Limit
+Unit 
+MDL
+002
+012
+015
+Lead (Pb)
+40
+mg/kg
+2
+ND
+ND
+ND
+Conclusion
+PASS
+PASS
+PASS
+Notes :
+(1) The maximum permissible limit is quoted from the client requirement.
+American Society for Testing and Materials -ASTM F 963-17 -total Lead in Substrate Materials
+Test Method : With reference to CPSC-CH-E1002-08.3. Analysis was performed by AAS.
+Test Item(s)
+Limit
+Unit 
+MDL
+003
+004
+007
+Total Lead (Pb)
+100
+mg/kg
+20
+ND
+ND
+ND
+Test Item(s)
+Limit
+Unit 
+MDL
+009
+016
+017
+Total Lead (Pb)
+100
+mg/kg
+20
+ND
+ND
+ND
+术服务（上海
+Onlesesafthvearwabeaogreedunstwortinggethsibldoatut
+tIsissuesdCoyten/Cerms-anyd-CUbneitions.asGenedaforoneditronicfofrmatvioeuminted
+titonthntg/rwcsiosncomulen/Terms-andecondionshoecmgo-Doeumontaspx
+adsedhatifoncntp
+检验检用
+Co.LM
+t(86)4009609661
+f(86-21)61156899
+www.sgsgroup.com.cn
+estingCente
+中国·上海·徐汇区宜山路889号4号楼邮编：200233
+t(86 400 9609661
+f(86-21)61156899
+e sgs.china@sgs.com
+Member of the SGS Group(SGS SA)

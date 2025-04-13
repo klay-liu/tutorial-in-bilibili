@@ -1,0 +1,124 @@
+SGS
+Test Report
+No.:SHHL2003507001TY
+Date:APR.03,2020
+Page 8 of 12
+Lead(Pb)
+Test Method : With reference to US EPA 3052:1996, analysis was performed by ICP-OES.
+Test Item(s)
+Limit
+Unit
+MDL
+003
+004
+007
+Lead (Pb)
+40
+mg/kg
+2
+ND
+ND
+ND
+Conclusion
+PASS
+PASS
+PASS
+Test Item(s)
+Limit
+Unit 
+MDL
+009
+016
+017
+Lead (Pb)
+40
+mg/kg
+2
+ND
+ND
+ND
+Conclusion
+PASS
+PASS
+PASS
+Notes :
+(1) The maximum permissible limit is quoted from the client requirement.
+American Society for Testing and Materials -ASTM F 963-17 - soluble Heavy Metal for paint and similar
+surface-coating materials/SubstrateMaterials
+Test Method : With reference to ASTM F 963-17 (Clause 8.3), analysis was performed by ICP-OES.
+Test Item(s)
+Limit
+Unit
+MDL
+001
+003
+004
+Soluble Lead (Pb)
+90
+mg/kg
+5
+ND
+ND
+ND
+ Soluble Antimony (Sb)
+ND
+60
+mg/kg 
+5
+ND
+ND
+SolubleArsenic (As)
+2.5
+ND
+ND
+ND
+25
+mg/kg
+Soluble Barium (Ba)
+1000
+10
+ND
+ND
+mg/kg
+ND
+SolubleCadmium(Cd)
+75
+mg/kg
+5
+ND
+ND
+ND
+Soluble Chromium (Cr)
+60
+mg/kg
+5
+ND
+ND
+ND
+SolubleMercury (Hg)
+60
+mg/kg
+ND
+ND
+ND
+5
+SolubleSelenium (Se)
+500
+mg/kg
+10
+ND
+ND
+ND
+术服务（上海
+entsssuedCoymten/Cerms-any-SCbneitions.asGenedaforoneditronisformatvioeupminted
+检验检制卡用
+Co.LMd.
+t(86)4009609661
+f(86-21)61156899
+www.sgsgroup.com.cn
+Testing Center
+中国·上海·徐汇区宜山路889号4号楼邮编：200233
+t(86 400 9609661
+f(86-21)61156899
+e sgs.china@sgs.com
+Memberof theSGSGroup(SGSSA)

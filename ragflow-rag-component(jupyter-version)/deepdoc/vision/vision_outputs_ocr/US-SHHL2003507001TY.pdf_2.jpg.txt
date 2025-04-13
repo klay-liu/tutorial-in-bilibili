@@ -1,0 +1,103 @@
+Test Report
+No.:SHHL2003507001TY
+Date: APR.03, 2020
+Page 3 of 12
+Result:
+ASTMF963-17STANDARDCONSUMERSAFETYSPECIFICATIONFORTOYSAFETY
+ASSPECIFIEDINASTMF963-17STANDARDCONSUMERSAFETYSPECIFICATIONONTOYSSAFETY
+Clausesrelevanttothe item:
+Clause
+Description
+Result
+4
+ Safety Requirements
+4.1
+Material Quality **
+Pass
+4.2
+Flammability Test
+Pass (See Detail of
+test result)
+4.3
+Toxicology
+4.3.5
+Heavy Elements
+4.3.5.1
+Heavy Elements in Paint/Similar SurfaceCoating Materials
+Pass (See Detail of
+test result)
+HeavyMetal inSubstrateMaterials
+Pass (See Detail of
+4.3.5.2
+test result)
+4.5
+ Sound-Producing Toys
+Pass
+4.6
+ Small Objects
+4.6.3
+Labelling Requirements
+Pass
+4.7
+Accessible Edges
+Pass
+4.9
+Accessible Points
+Pass
+4.11
+ Nails and Fasteners
+Pass
+4.13.2
+Hinge-Line Clearance
+N/A
+Remark: No applicable because of the weight of the part link with hinge is
+See Remark
+less than 0.5lb.
+4.33
+Marbles
+Pass
+5
+SafetyLabelingRequirements
+5.2
+Age Grading Labeling
+Pass
+5.3
+ Safety Labeling Requirements
+Pass
+5.11
+Small Objects, Small Balls, Marbles, and Balloons
+Pass
+5.16
+Promotional Materials
+Pass
+ Producer's Markings
+7.1
+ Producer's Markings
+Pass
+8.5
+ Normal Use Testing
+Pass
+8.7
+Impact Test
+Pass
+8.8
+Torque Test
+Pass
+8.9
+Tension Test
+Pass
+N/A = Not Applicable
+** Visual Examination
+大服务（上
+ictior
+检验检测卡用
+Co.LM
+t(86)400960 9661
+f(86-21)61156899
+www.sgsgroup.com.cn
+Testing Cente
+中国·上海·徐汇区宜山路889号4号楼邮编：200233
+t(86 400 9609661
+f(86-21)61156899
+e sgs.china@sgs.com
+Member of the SGS Group (SGS SA)

@@ -1,0 +1,46 @@
+5
+Test Report
+No.:SHHL2003507001TY
+Date: APR.03,2020
+Page 4 of 12
+Detail of test result:
+ASTMF963-17, Clause 4.2-FlammabilityTest
+FlammabilityTestonSolid
+Sample
+Burning Rate (inch/sec)
+XYLOPHONE/JUMPER
+DNI
+Requirement:
+ A toy / component is considered a “flammable solid" if it ignites and burns with a self-sustaining
+flame at a rate greater than 0.10 in/sec along its major axis.
+DNI = Did Not Ignite
+N.B.：-
+Only applicableclauseswereshown.
+Tracking label per Consumer Product Safety Improvement Act (CPSlA) of 2008 section 103 tracking labels
+for children's products.
+Notes:
+Note 1: As specified in Consumer Product Safety Improvement Act (CPSlA) of 2008 section 103 tracking labels for
+children's products.
+- Tracking label found on the packaging: E6022:S1884200120NBCN 09/2019
+E6023:S1984200070NBCN11/2019
+- Tracking label found on the product: E6022:S1884200120NBCN 09/2019
+E6023:S1984200070NBCN11/2019
+Note 2: 1) The tracking label assessment was based on the submitted samples and the information provided by
+the applicant. There was no verification on the validity of such information.
+2) City and State, or administrative state shall be also provided for the source (location)
+information.
+术服务（上海
+tior
+annotbe
+检检用
+制专用话
+Co.L
+t(86)4009609661
+(86-21)61156899
+www.sgsgroup.com.cn
+中国·上海·徐汇区宜山路889号4号楼邮编：200233
+estingCente
+t(86 400 9609661
+f(86-21)61156899
+e sgs.china@sgs.com
+Member of the SGS Group(SGS SA)
